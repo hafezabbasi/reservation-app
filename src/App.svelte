@@ -199,11 +199,11 @@ const properties = [
 				
 
 				<h1
-					  class="mt-6 text-5xl font-black leading-tight md:text-7xl"
+					  class="mt-6 text-4xl font-black leading-tight md:text-7xl"
 				>
 					رزورا؛
 					<span
-						class="bg-gradient-to-r from-[#2563ff] to-[#7c3aed] bg-clip-text text-transparent"
+						class="bg-gradient-to-r text-5xl from-[#2563ff] to-[#7c3aed] bg-clip-text text-transparent mt-0"
 					>
 					هوشمندی در مدیریت، سادگی در رزرو
 					</span>
