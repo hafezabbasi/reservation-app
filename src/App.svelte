@@ -212,8 +212,9 @@ const properties = [
 				<ul class="list-disc pt-4 ps-6 text-lg leading-7 text-right">
          <li>هوشمند، یکپارچه، همیشه در دسترس</li>
          <li>سادگی در ظاهر و کارایی،  قدرت در مدیریت </li>
-         <li>رزرو آنلاین </li>
+         
 		 <li>مناسب برای هتل، مجتمع‌ گردشگری، اقامتگاه  و ...</li>
+		 <li>رزرو آنلاین </li>
        </ul>
 
 				<div
