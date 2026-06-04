@@ -203,9 +203,9 @@ const properties = [
 				>
 					رزورا؛
 					<span
-						class="bg-gradient-to-r text-5xl from-[#2563ff] to-[#7c3aed] bg-clip-text text-transparent mt-0"
+						class="bg-gradient-to-r from-[#2563ff] to-[#7c3aed] bg-clip-text text-transparent"
 					>
-					هوشمندی در مدیریت، سادگی در رزرو
+						مدیریت هوشمند، رزرو آسان
 					</span>
 				</h1>
            
