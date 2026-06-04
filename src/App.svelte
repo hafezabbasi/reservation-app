@@ -118,10 +118,11 @@ const properties = [
     </div>
 
     <!-- Title -->
+	  <a href="/">
     <span class="text-xl font-bold">
     {appName}
     </span>
-
+</a>
   </div>
        
     
@@ -451,11 +452,12 @@ const properties = [
     </div>
 
     <!-- Title -->
+	 <a href="/">
     <span class="text-xl font-bold">
     {faAppName} 
 
     </span>
-
+</a>
   </div>
 
 				<p
