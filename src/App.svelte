@@ -171,7 +171,7 @@ const properties = [
 		{#if menuOpen}
 
 			<div
-				class="flex flex-col gap-4 border-t border-zinc-200 px-6 py-4 dark:border-zinc-800 md:hidden"
+				class="flex flex-col gap-4 border-t border-zinc-200 text-right px-6 py-4 dark:border-zinc-800 md:hidden"
 			>
   <a href="#customers">مشتری‌ها</a>
 				<a href="#reviews">نظرها</a>
