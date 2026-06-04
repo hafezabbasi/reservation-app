@@ -466,7 +466,7 @@ const properties = [
 
 			</div>
 
-			<p class="text-zinc-500">
+			<p class="text-zinc-500 text-center">
 				{copyright}
 					
 			</p>
