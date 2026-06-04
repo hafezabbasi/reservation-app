@@ -482,7 +482,7 @@ const properties = [
 
 	<button
 		on:click={scrollToTop}
-		class="fixed bottom-40 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-r from-[#2563ff] to-[#7c3aed] text-xl text-white shadow-lg transition hover:scale-110"
+		class="fixed bottom-40 right-4 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-gradient-to-r from-[#2563ff] to-[#7c3aed] text-xl text-white shadow-lg transition hover:scale-110"
 	>
 		↑
 	</button>
@@ -514,7 +514,7 @@ const properties = [
 	target="_blank"
 	rel="noopener noreferrer"
 	aria-label="Chat on WhatsApp"
-	class="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 shadow-lg transition hover:scale-110"
+	class="fixed bottom-6 right-4 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-green-500 shadow-lg transition hover:scale-110"
 >
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
