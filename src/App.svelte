@@ -232,7 +232,7 @@ const properties = [
 					<img
 						src="images/logo.png"
 						alt="app"
-						class="rounded-3xl m-auto h-60 md:h-auto w-auto"
+						class="rounded-3xl m-auto h-70 md:h-auto w-auto"
 					/>
 					
 
