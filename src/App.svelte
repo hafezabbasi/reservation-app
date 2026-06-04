@@ -492,7 +492,7 @@ const properties = [
 <a
 	href="tel:{phoneNumber}"
 	aria-label="Call us"
-	class="fixed bottom-24 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-blue-500 shadow-lg transition hover:scale-110"
+	class="fixed bottom-24 right-4 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-blue-500 shadow-lg transition hover:scale-110"
 >
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
