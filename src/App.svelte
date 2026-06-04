@@ -195,11 +195,7 @@ const properties = [
 
 			<div class="flex-1 text-center lg:text-right">
 
-				<span
-					class="rounded-full bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-500"
-				>
-					 {appName}
-				</span>
+				
 
 				<h1
 					  class="mt-6 text-5xl font-black leading-tight md:text-7xl"
@@ -212,7 +208,7 @@ const properties = [
 					</span>
 				</h1>
            
-				<ul class="list-disc pt-4 ps-6 text-lg leading-7">
+				<ul class="list-disc pt-4 ps-6 text-lg leading-7 text-right">
          <li>هوشمند، یکپارچه، همیشه در دسترس</li>
          <li>سادگی در ظاهر و کارایی،  قدرت در مدیریت </li>
          <li>رزرو آنلاین </li>
@@ -236,7 +232,7 @@ const properties = [
 					<img
 						src="images/logo.png"
 						alt="app"
-						class="rounded-3xl m-auto"
+						class="rounded-3xl m-auto h-50 w-auto"
 					/>
 					
 
@@ -270,11 +266,11 @@ const properties = [
 				{#each features as feature}
 
 					<div
-						class="rounded-3xl border border-zinc-200 bg-white p-8 transition hover:-translate-y-2 dark:border-zinc-800 dark:bg-zinc-950"
+						class="rounded-3xl border border-zinc-200 text-center bg-white p-8 transition hover:-translate-y-2 dark:border-zinc-800 dark:bg-zinc-950"
 					>
 
 						<h3
-							class="mb-4 text-2xl font-bold"
+							class="mb-4 text-2xl font-bold "
 						>
 							{feature.title}
 						</h3>
