@@ -210,7 +210,7 @@ const properties = [
 				</h1>
            
 				<ul class="list-disc pt-4 ps-6 text-lg leading-7 text-right">
-         <li>هوشمندی در مدیریت، سادگی در رزرو</li>
+        
 		  <li>هوشمند، یکپارچه، همیشه در دسترس</li>
          <li>سادگی در ظاهر و کارایی،  قدرت در مدیریت </li>
          
