@@ -359,7 +359,8 @@ const properties = [
 			<h2
 				class="mb-16 text-center text-4xl font-bold"
 			>
-	          مورد اعتمادِ 
+	       حرف ما رو قبول نکنید، از مشتری‌هامون بپرسید
+
 			</h2>
 
 			<div
