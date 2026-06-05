@@ -196,8 +196,11 @@ const properties = [
 
 			<div class="flex-1 text-center lg:text-right">
 
-				
+				<h4 class="mt-6 text-1xl font-thin  md:text-2xl"
+				>اپلیکیشن‌ِ مدیریت رزرواسیون  
 
+				</h4>
+                 
 				<h1
 					  class="mt-6 text-5xl font-black leading-tight md:text-7xl"
 				>
