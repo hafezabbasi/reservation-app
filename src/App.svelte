@@ -196,7 +196,7 @@ const properties = [
 
 			<div class="flex-1 text-center lg:text-right">
 
-				<h4 class="mt-2 text-1xl font-thin  md:text-2xl"
+				<h4 class="mt-6 text-1xl font-thin  md:text-2xl"
 				>اپلیکیشن‌ِ مدیریت رزرواسیون  
 
 				</h4>
@@ -239,7 +239,7 @@ const properties = [
 					<img
 						src="images/logo.png"
 						alt="app"
-						class="rounded-3xl m-auto h-60 md:h-auto w-auto"
+						class="rounded-3xl m-auto h-65 md:h-auto w-auto"
 					/>
 					
 
