@@ -202,7 +202,7 @@ const properties = [
 				</h4>
                  
 				<h1
-					  class="mt-6 text-5xl font-black leading-tight md:text-7xl"
+					  class="mt-4 text-5xl font-black leading-tight md:text-7xl"
 				>
 					رزورا؛
 					<span
