@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@fontsource/vazirmatn": "^5.2.8",
+    "@lucide/svelte": "^1.17.0",
     "@tailwindcss/vite": "^4.3.0",
     "tailwindcss": "^4.3.0"
   }
