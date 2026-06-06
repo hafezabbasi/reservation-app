@@ -140,12 +140,7 @@ const properties = [
 				
        
 
-				<!-- <button
-					on:click={() => (darkMode = !darkMode)}
-					class="rounded-xl border border-zinc-300 px-4 py-2 dark:border-zinc-700"
-				>
-					{darkMode ? "☀️" : "🌙"}
-				</button> -->
+				
 				<button
 	on:click={() => (darkMode = !darkMode)}
 	class="flex h-10 w-10 items-center justify-center rounded-full
@@ -167,10 +162,18 @@ const properties = [
 			<div class="flex items-center gap-3 md:hidden">
 
 				<button
-					on:click={() => (darkMode = !darkMode)}
-				>
-					{darkMode ? "☀️" : "🌙"}
-				</button>
+	on:click={() => (darkMode = !darkMode)}
+	class="flex h-10 w-10 items-center justify-center rounded-full
+		   bg-white text-amber-500
+		   shadow-sm transition-all duration-300
+		   hover:scale-105 hover:bg-zinc-50 hover:shadow
+		   dark:bg-zinc-900 dark:text-indigo-400
+		   dark:hover:bg-zinc-800
+		   border border-transparent hover:border-zinc-200
+		   dark:hover:border-zinc-700"
+>
+	<SunMoon size={30} />
+</button>
 
 				<button
 					on:click={() => (menuOpen = !menuOpen)}
