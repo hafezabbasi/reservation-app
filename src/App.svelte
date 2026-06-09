@@ -81,7 +81,7 @@ const properties = [
 	const testimonials = [
 		{
 			name: "کاوه سعدی - مدیریت هتل نودشه ( مجتمع گردشگری نودشه)",
-			comment: "سامانه‌ای سریع، حرفه‌ای و عالی برای مدیریت رزرواسیون، کامل و کارکرن باهاش خیلی آسونه."
+			comment: "اپلیکیشنِ سریع، حرفه‌ای و عالی برای مدیریت رزرواسیون، کامل و کارکرن باهاش خیلی آسونه."
 		},
 		
 	]
@@ -92,14 +92,14 @@ const properties = [
 	]
 </script>
 <svelte:head>
-  <title>رزورا | سامانه هوشمند مدیریت رزرو هتل، مجتمع گردشگری و اقامتگاه</title>
+  <title>رزورا | اپلیکیشنِ هوشمند مدیریت رزرو هتل، مجتمع گردشگری و اقامتگاه</title>
 
-  <meta name="description" content="رزورا سامانه مدیریت رزرو هتل، اقامتگاه و مجتمع توریستی برای مدیریت آسان رزروها، ظرفیت‌ها و پذیرش مهمانان." />
+  <meta name="description" content="رزورا اپلیکیشنِ مدیریت رزرو هتل، اقامتگاه و مجتمع توریستی برای مدیریت آسان رزروها، ظرفیت‌ها و پذیرش مهمانان." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
   <link rel="canonical" href="https://rezora.ir/" />
 
   <!-- Open Graph -->
-  <meta property="og:title" content="رزورا | سامانه مدیریت رزرو هتل و اقامتگاه" />
+  <meta property="og:title" content="رزورا | اپلیکیشنِ مدیریت رزرو هتل و اقامتگاه" />
   <meta property="og:description" content="راهکار جامع مدیریت رزرو برای هتل‌ها، اقامتگاه‌ها و مجتمع توریستی." />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="fa_IR" />
@@ -109,8 +109,8 @@ const properties = [
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="رزورا | سامانه مدیریت رزرو هتل و اقامتگاه" />
-  <meta name="twitter:description" content="سامانه هوشمند مدیریت رزرو هتل و اقامتگاه" />
+  <meta name="twitter:title" content="رزورا | اپلیکیشنِ مدیریت رزرو هتل و اقامتگاه" />
+  <meta name="twitter:description" content="اپلیکیشنِ هوشمند مدیریت رزرو هتل و اقامتگاه" />
   <meta name="twitter:image" content="https://rezora.ir/og-image.png" />
 
   <!-- JSON-LD Schema -->
@@ -142,7 +142,7 @@ const properties = [
         "applicationCategory": "BusinessApplication",
         "operatingSystem": "Web",
         "inLanguage": "fa",
-        "description": "سامانه هوشمند مدیریت رزرو هتل، اقامتگاه و مجتمع توریستی",
+        "description": "اپلیکیشنِ هوشمند مدیریت رزرو هتل، اقامتگاه و مجتمع توریستی",
         "url": "https://rezora.ir",
         "publisher": {
           "@id": "https://rezora.ir/#organization"
