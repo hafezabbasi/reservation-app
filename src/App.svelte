@@ -92,7 +92,7 @@ const properties = [
 	]
 </script>
 <svelte:head>
-  <title>رزورا | سامانه هوشمند مدیریت رزرو هتل و اقامتگاه</title>
+  <title>رزورا | سامانه هوشمند مدیریت رزرو هتل، مجتمع گردشگری و اقامتگاه</title>
 
   <meta name="description" content="رزورا سامانه مدیریت رزرو هتل، اقامتگاه و مجتمع توریستی برای مدیریت آسان رزروها، ظرفیت‌ها و پذیرش مهمانان." />
   <meta name="robots" content="index,follow,max-image-preview:large" />
