@@ -152,7 +152,7 @@ const properties = [
 		   border border-transparent hover:border-zinc-200
 		   dark:hover:border-zinc-700"
 >
-	<SunMoon size={30} />
+	<SunMoon size={28} />
 </button>
 
 			</div>
@@ -172,7 +172,7 @@ const properties = [
 		   border border-transparent hover:border-zinc-200
 		   dark:hover:border-zinc-700"
 >
-	<SunMoon size={30} />
+	<SunMoon size={28} />
 </button>
 
 				<button
