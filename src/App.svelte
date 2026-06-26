@@ -4,6 +4,21 @@
 import { onMount } from "svelte"
 import { SunMoon } from "@lucide/svelte";
   import app from "./main";
+
+  const hafez =[
+	{
+     icon:"^",
+	 title:"test component",
+	 description:"test"
+	},
+	{
+		icon:"$",
+		title:"test1",
+		description:"test2"
+	}
+  ]
+ 
+  
 const whatsappNumber = "989350657135"
 const appName="Rezora"
 const faAppName="رزورا"
@@ -297,7 +312,13 @@ const properties = [
 		 <li>مناسب برای هتل، مجتمع‌ گردشگری، اقامتگاه  و ...</li>
 		 <li>رزرو آنلاین </li>
        </ul>
-
+	 
+<button class="mt-2 mr-2 p-2"><a target="_blank"
+  href="https://rezora.ir/Rezora_Overview_v1.0.pdf"
+  class="bg-gradient-to-r from-[#2563ff] to-[#7c3aed] rounded-xl p-2 text-2xl text-white"
+>
+ امکانات و قابلیت‌های رزورا
+</a></button>
 				<div
 					class="mt-10 flex flex-col gap-4 sm:flex-row"
 				>
@@ -513,7 +534,10 @@ const properties = [
 
 	<!-- CTA -->
 
-	
+
+
+
+
 	<!-- Footer -->
 
 	<footer
